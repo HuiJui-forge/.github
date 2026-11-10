@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/HuijuiSU-NEXT/.github/main/profile/avatar.png" width="120" alt="HuiJuiSU" />
+<img src="https://raw.githubusercontent.com/HuiJui-forge/.github/main/profile/avatar.png" width="120" alt="HuiJuiSU" />
 
 # huijui forge
 
@@ -8,9 +8,9 @@
 
 旗下产品：**HuiJuiSU** —— 基于 KernelSU 的 Android Root 管理器
 
-[![Website](https://img.shields.io/badge/官网-huijuisu--next.github.io-3ee6c4?style=flat-square)](https://huijuisu-next.github.io/)
-[![Release](https://img.shields.io/github/v/release/HuijuiSU-NEXT/HuijuiSU?style=flat-square&label=release)](https://github.com/HuijuiSU-NEXT/HuijuiSU/releases/latest)
-[![License](https://img.shields.io/github/license/HuijuiSU-NEXT/HuijuiSU?style=flat-square)](https://github.com/HuijuiSU-NEXT/HuijuiSU/blob/main/LICENSE)
+[![Website](https://img.shields.io/badge/官网-huijuisu--next.github.io-3ee6c4?style=flat-square)](https://huijui-forge.github.io/)
+[![Release](https://img.shields.io/github/v/release/HuiJui-forge/HuijuiSU?style=flat-square&label=release)](https://github.com/HuiJui-forge/HuijuiSU/releases/latest)
+[![License](https://img.shields.io/github/license/HuiJui-forge/HuijuiSU?style=flat-square)](https://github.com/HuiJui-forge/HuijuiSU/blob/main/LICENSE)
 [![Telegram](https://img.shields.io/badge/Telegram-群组-26A5E4?style=flat-square&logo=telegram)](https://t.me/Huijui123)
 
 </div>
@@ -34,11 +34,11 @@ HuiJuiSU 是 **KernelSU 的下游分支**。保留上游的管理器与内核能
 
 | 仓库 | 说明 | 状态 |
 |---|---|---|
-| [**HuijuiSU**](https://github.com/HuijuiSU-NEXT/HuijuiSU) | 管理器与内核（主仓库） | 活跃 |
-| [**Snow-love-Module**](https://github.com/HuijuiSU-NEXT/Snow-love-Module) | 一键隐藏模块源码（恋雪） | 维护 |
-| [**Huijui_Module_Repo**](https://github.com/HuijuiSU-NEXT/Huijui_Module_Repo) | 模块仓库索引与更新源 | 维护 |
-| [**HuiJui-Toolbox**](https://github.com/HuijuiSU-NEXT/HuiJui-Toolbox) | 常用 Root 操作脚本集合 | 维护 |
-| [**huijuisu-next.github.io**](https://github.com/HuijuiSU-NEXT/huijuisu-next.github.io) | 官网（GitHub Pages） | 活跃 |
+| [**HuijuiSU**](https://github.com/HuiJui-forge/HuijuiSU) | 管理器与内核（主仓库） | 活跃 |
+| [**Snow-love-Module**](https://github.com/HuiJui-forge/Snow-love-Module) | 一键隐藏模块源码（恋雪） | 维护 |
+| [**Huijui_Module_Repo**](https://github.com/HuiJui-forge/Huijui_Module_Repo) | 模块仓库索引与更新源 | 维护 |
+| [**HuiJui-Toolbox**](https://github.com/HuiJui-forge/HuiJui-Toolbox) | 常用 Root 操作脚本集合 | 维护 |
+| [**huijui-forge.github.io**](https://github.com/HuiJui-forge/huijui-forge.github.io) | 官网（GitHub Pages） | 活跃 |
 
 ---
 
@@ -58,7 +58,7 @@ adb install HuiJuiSU_NEXT_Ultra_arm64-v8a-release.apk
 
 装好后打开 App → 工具箱 → 一键隐藏。
 
-完整步骤见 [安装文档](https://huijuisu-next.github.io/install.html)。
+完整步骤见 [安装文档](https://huijui-forge.github.io/install.html)。
 
 ---
 
@@ -73,7 +73,7 @@ adb install HuiJuiSU_NEXT_Ultra_arm64-v8a-release.apk
 
 ## 参与
 
-- 提交 Issue：[HuijuiSU/issues](https://github.com/HuijuiSU-NEXT/HuijuiSU/issues)
+- 提交 Issue：[HuijuiSU/issues](https://github.com/HuiJui-forge/HuijuiSU/issues)
 - 讨论：Telegram 群 [@Huijui123](https://t.me/Huijui123)
 - 更新通知：Telegram 频道 [@HuijuiSU](https://t.me/HuijuiSU)
 - QQ 群：763278354
