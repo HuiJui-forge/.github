@@ -101,6 +101,70 @@ adb install HuiJuiSU_NEXT_Ultra_arm64-v8a-release.apk
 
 ---
 
+
+---
+
+## Languages · 语言
+
+<details>
+<summary><b>简体中文</b></summary>
+
+huijui forge 是一个小型开源团队，专注 Android Root 工具与模块生态。
+我们的旗舰产品是 **HuiJuiSU** —— 基于 KernelSU 的 Root 管理器，
+内置一键隐藏、真热刷入与开机自动激活。
+
+</details>
+
+<details>
+<summary><b>繁體中文</b></summary>
+
+huijui forge 是一個小型開源團隊，專注 Android Root 工具與模組生態。
+我們的旗艦產品是 **HuiJuiSU** —— 基於 KernelSU 的 Root 管理器，
+內建一鍵隱藏、真熱刷入與開機自動啟用。
+
+</details>
+
+<details>
+<summary><b>English</b></summary>
+
+huijui forge is a small open-source team focused on Android root tooling
+and module tooling. Our flagship product is **HuiJuiSU**, a KernelSU-based
+root manager with built-in hiding, true hot-flash mounting and automatic
+activation on boot.
+
+</details>
+
+<details>
+<summary><b>日本語</b></summary>
+
+huijui forge は Android の Root ツールとモジュール環境に取り組む
+小さなオープンソースチームです。主力製品は **HuiJuiSU** —
+KernelSU ベースの Root マネージャーで、ワンクリック隠蔽・
+ホットフラッシュ・起動時の自動有効化を備えています。
+
+</details>
+
+<details>
+<summary><b>한국어</b></summary>
+
+huijui forge 는 Android 루트 도구와 모듈 생태계에 집중하는
+작은 오픈소스 팀입니다. 대표 제품은 **HuiJuiSU** — KernelSU 기반
+루트 관리자로, 원클릭 숨김·핫 플래시·부팅 시 자동 활성화를 제공합니다.
+
+</details>
+
+<details>
+<summary><b>Русский</b></summary>
+
+huijui forge — небольшая open-source команда, занимающаяся инструментами
+root-доступа и модулями для Android. Наш основной продукт — **HuiJuiSU**,
+root-менеджер на базе KernelSU со встроенным скрытием, горячей установкой
+модулей и автоматической активацией при загрузке.
+
+</details>
+
+---
+
 ## 参与
 
 - 提交 Issue：[HuijuiSU/issues](https://github.com/HuiJui-forge/HuijuiSU/issues)
