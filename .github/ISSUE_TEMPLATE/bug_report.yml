@@ -1,0 +1,60 @@
+name: Bug 报告
+description: 功能异常、崩溃、显示错误
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感谢反馈。请先搜索已有 Issue，避免重复。
+  - type: input
+    id: version
+    attributes:
+      label: 管理器版本
+      description: 设置页底部或关于页可见
+      placeholder: v5.0.19 (35372)
+    validations:
+      required: true
+  - type: input
+    id: device
+    attributes:
+      label: 设备与系统
+      placeholder: Redmi K80 / Android 16 / HyperOS 4.0
+    validations:
+      required: true
+  - type: input
+    id: kernel
+    attributes:
+      label: 内核版本
+      description: 执行 uname -r 的结果
+      placeholder: 6.12.69-android16-6-g586bfab1b9c5
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: 复现步骤
+      placeholder: |
+        1. 打开工具箱
+        2. 点一键隐藏
+        3. 卡在「正在安装…」
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: 期望结果
+  - type: textarea
+    id: logs
+    attributes:
+      label: 日志 / 截图
+      description: 管理器设置页可导出日志；也可贴 logcat
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: 确认
+      options:
+        - label: 已搜索过 Issue，没有重复
+          required: true
+        - label: 使用的是最新 Release
+          required: true
