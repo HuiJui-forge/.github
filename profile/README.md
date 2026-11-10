@@ -2,9 +2,11 @@
 
 <img src="https://raw.githubusercontent.com/HuijuiSU-NEXT/.github/main/profile/avatar.png" width="120" alt="HuiJuiSU" />
 
-# HuiJuiSU
+# huijui forge
 
-**基于 KernelSU 的 Android Root 管理器与模块生态**
+**huijui forge** · 作品与模块生态
+
+旗下产品：**HuiJuiSU** —— 基于 KernelSU 的 Android Root 管理器
 
 [![Website](https://img.shields.io/badge/官网-huijuisu--next.github.io-3ee6c4?style=flat-square)](https://huijuisu-next.github.io/)
 [![Release](https://img.shields.io/github/v/release/HuijuiSU-NEXT/HuijuiSU?style=flat-square&label=release)](https://github.com/HuijuiSU-NEXT/HuijuiSU/releases/latest)
