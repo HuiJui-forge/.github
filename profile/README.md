@@ -71,6 +71,36 @@ adb install HuiJuiSU_NEXT_Ultra_arm64-v8a-release.apk
 
 ---
 
+## 技术栈
+
+| 层 | 使用 |
+|---|---|
+| 管理器 | Kotlin + Jetpack Compose，AGP / Gradle |
+| 内核 | C，KernelSU 分支，LKM 与内核补丁双路线 |
+| 用户态 | Rust / C（ksud、ksuinit） |
+| 官网 | 原生 HTML / CSS / JS，零依赖，GitHub Pages |
+| 构建 | GitHub Actions，多 ABI + 多 KMI 矩阵 |
+
+---
+
+## 路线
+
+| 阶段 | 目标 | 状态 |
+|---|---|---|
+| 5.0 | 内置资源、热刷入、工具箱、稳定化 | ✅ 已完成 |
+| 5.1 | 一键隐藏全流程自动化、模块仓库接入 | 进行中 |
+| 5.2 | 多设备兼容性扩展、错误自诊断 | 计划中 |
+
+---
+
+## 安全
+
+- 核心模块禁止卸载与停用，避免误操作破坏隐藏链路
+- 所有 root 调用带超时与多路径回退，不会无限阻塞
+- 漏洞报告请走 [SECURITY.md](SECURITY.md)，不要公开 Issue
+
+---
+
 ## 参与
 
 - 提交 Issue：[HuijuiSU/issues](https://github.com/HuiJui-forge/HuijuiSU/issues)
